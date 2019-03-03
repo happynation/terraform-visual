@@ -4,3 +4,7 @@ instance_type = "t2.micro"
 keyname = "testkey"
 Name = "Consul"
 subnet_id = "subnet-ddabca95"
+Env = "Dev"
+Created_by = "Vova"
+Dept = "IT"
+count = 1
